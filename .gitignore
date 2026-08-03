@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit / notebook artifacts
+.cache/
+final_map.html
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
